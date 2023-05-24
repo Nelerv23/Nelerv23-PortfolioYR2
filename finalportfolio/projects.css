@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 75%;
+    height: auto;
+  }
